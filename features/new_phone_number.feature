@@ -2,7 +2,6 @@
 # use space or tab for indentation,
 # put comment anywhere
 
-@wip
 Feature: New numbers
  This is a phone book application. Add new numbers
 
